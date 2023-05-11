@@ -34,7 +34,7 @@
     width: 280px;
     display: flex;
     padding: 10rem 3rem 0 3rem;
-    /* transform: translateX(100%); */
+    transform: translateX(100%);
     transition: var(--transition);
 }
 

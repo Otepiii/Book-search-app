@@ -59,9 +59,12 @@ input{
 /* backgrounds */
 .bg-green{background-color: var(--mossgreen-color);}
 .bg-yellow{background-color: var(--earthyellow-color);}
-.bg-white{background-color:  var(--cornsilk-color);}
+.bg-white{background-color:  #fff;}
 
 /* text */
+.text-green{
+    color: var(--mossgreen-color);
+}
 .text-black{
     color: var(--black-color);
 }
