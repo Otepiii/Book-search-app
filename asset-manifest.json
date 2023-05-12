@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Book-search-app/static/css/main.086ed1f9.css",
+    "main.js": "/Book-search-app/static/js/main.3914165e.js",
+    "static/media/pexels-tima-miroshnichenko-9572625.jpg": "/Book-search-app/static/media/pexels-tima-miroshnichenko-9572625.79bdc9a101683bc6e906.jpg",
+    "static/media/about-img.jpg": "/Book-search-app/static/media/about-img.ed965dda6488d21bdc63.jpg",
+    "static/media/cover_not_found.jpg": "/Book-search-app/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "index.html": "/Book-search-app/index.html",
+    "static/media/loader.svg": "/Book-search-app/static/media/loader.1a80b40b140376d03143d24b345af716.svg",
+    "main.086ed1f9.css.map": "/Book-search-app/static/css/main.086ed1f9.css.map",
+    "main.3914165e.js.map": "/Book-search-app/static/js/main.3914165e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086ed1f9.css",
+    "static/js/main.3914165e.js"
+  ]
+}
