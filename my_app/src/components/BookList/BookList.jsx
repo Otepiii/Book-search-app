@@ -40,9 +40,7 @@ const BookList = () => {
     </section>
   )
 
-  // return (
-  //   <div>BookList</div>
-  // )
+
 }
 
 export default BookList
