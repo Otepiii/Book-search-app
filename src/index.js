@@ -15,10 +15,10 @@ root.render(
   <AppProvider>
     <BrowserRouter>
       <Routes>
-        <Route path = "/" element = {<Home />}>
-          <Route path = "about" element = {<About />}/>
-          <Route path = "book" element = {<BookList />}/>
-          <Route path = "/book/:id" element = {<BookDetails />}/>
+        <Route path = "Book-search-app/" element = {<Home />}>
+          <Route path = "Book-search-app/about" element = {<About />}/>
+          <Route path = "Book-search-app/book" element = {<BookList />}/>
+          <Route path = "Book-search-app/book/:id" element = {<BookDetails />}/>
         </Route>
       </Routes>
     </BrowserRouter>
