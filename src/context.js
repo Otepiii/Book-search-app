@@ -16,6 +16,8 @@ const AppProvider = ({children}) => {
             const data = await response.json();
             const {docs} = data;
 
+            console.log(data)
+
             if(docs){
                 const newBooks = docs.slice(0, 20).map((bookSingle) => {
                     const {key, author_name, cover_i, edition_count, first_publish_year, title} = bookSingle;
